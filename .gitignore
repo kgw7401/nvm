@@ -1,0 +1,18 @@
+# NVM output (user-generated data)
+.nvm/
+
+# Internal documents (PRD, specs, etc.)
+internal/
+
+# oh-my-claudecode local state
+.omc/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
