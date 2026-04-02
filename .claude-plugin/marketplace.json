@@ -1,0 +1,24 @@
+{
+  "name": "nvm",
+  "description": "Engineering thought-trajectory generator. Extracts problem-solving narratives from Claude Code conversations + git history.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "kgw7401"
+  },
+  "plugins": [
+    {
+      "name": "nvm",
+      "description": "Engineering thought-trajectory generator. Extracts problem-solving narratives from Claude Code conversations + git history.",
+      "version": "1.0.0",
+      "author": {
+        "name": "kgw7401"
+      },
+      "source": "./",
+      "tags": [
+        "thought-trajectory",
+        "engineering-memory",
+        "session-analysis"
+      ]
+    }
+  ]
+}
