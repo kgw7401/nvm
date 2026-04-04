@@ -53,16 +53,6 @@ Then switched to fire-and-forget to remove main-thread blocking.
 /plugin install nvm
 ```
 
-### Manual Installation
-
-Copy the plugin files into your Claude Code setup:
-
-```bash
-git clone https://github.com/kgw7401/nvm.git
-cp -r nvm/skills/nvm ~/.claude/commands/
-cp -r nvm/scripts ~/your-project/scripts/
-```
-
 ## Usage
 
 ```
